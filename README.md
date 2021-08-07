@@ -1,2 +1,5 @@
 # erlang-jeasure
-JSON measure.
+An erlang implementation of JSON measure.
+
+# Status
+Exploring.
